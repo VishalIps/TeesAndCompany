@@ -1,4 +1,4 @@
-// import logo from './logo.svg'; Vishal
+// Vishal
 import "./App.css";
 
 function App() {
